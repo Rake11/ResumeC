@@ -1,0 +1,51 @@
+
+table{
+    
+    color:rgb(13, 1, 1);
+}
+pre{
+    color:black;
+}
+h3{
+    background-color: dimgray;
+color: black;
+}
+.ntr{
+    color:Black;
+    font-family: roboto;
+    background-color: cadetblue;
+}
+html{
+    
+    color:black;;
+}
+tbody{
+    color:black;
+}
+thead{
+    color:black;
+}
+h1{
+    color:black;
+}
+p{
+    color:black;
+}
+.k{
+    font-family: roboto;
+    color:black;
+    background-color: darkolivegreen;
+}
+.o{
+    font-family: roboto;
+    background-color: darkseagreen;
+}
+pre{
+    background-color: aqua;
+}
+table{
+    background-color: burlywood;
+}
+h2{
+    background-color: dimgrey;
+}
